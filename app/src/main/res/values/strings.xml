@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lucky Dice</string>
+    <string name="roll">Roll</string>
 </resources>
